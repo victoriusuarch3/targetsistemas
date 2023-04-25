@@ -1,0 +1,19 @@
+Primeiramente, precisamos calcular o tempo que cada veículo levará para percorrer a distância entre as duas cidades. Como a distância é de 100km, temos:
+
+Carro: tempo = distância / velocidade = 100km / 110 km/h = 0,909 horas
+Caminhão: tempo = distância / velocidade = 100km / 80 km/h = 1,25 horas
+Agora, precisamos levar em conta os pedágios. Sabemos que o caminhão leva 5 minutos a mais em cada um dos dois pedágios em relação ao carro. Se cada pedágio atrasa o caminhão em 5 minutos, então o atraso total do caminhão será de 10 minutos (ou 0,167 horas).
+
+Assim, o tempo total de viagem do caminhão será de:
+
+Tempo = tempo de viagem normal + atraso nos pedágios
+Tempo = 1,25 horas + 0,167 horas = 1,417 horas
+Agora, podemos calcular a distância percorrida por cada veículo até o ponto de encontro. Como eles estão se aproximando, a distância percorrida pelo carro é igual à distância restante entre o ponto de partida do carro e o ponto de encontro, enquanto a distância percorrida pelo caminhão é igual à distância entre o ponto de partida do caminhão e o ponto de encontro. A distância entre as duas cidades é de 100 km, então o ponto de encontro estará a 50 km de cada cidade.
+
+Carro: distância percorrida = velocidade x tempo = 110 km/h x 0,909 horas = 100 km
+Caminhão: distância percorrida = velocidade x tempo = 80 km/h x 1,417 horas = 113,6 km
+Como o ponto de encontro está a 50 km de cada cidade, podemos calcular a distância que cada veículo ainda precisa percorrer para chegar em sua cidade de origem. Para o carro, é 50 km, enquanto para o caminhão, é 50 km + 13,6 km (que é a distância extra que ele percorreu em relação ao carro até o ponto de encontro).
+
+Carro: distância restante = 50 km
+Caminhão: distância restante = 63,6 km
+Portanto, quando os veículos se cruzarem na rodovia, o carro estará mais próximo da cidade de Ribeirão Preto, pois ele ainda precisará percorrer apenas 50 km para chegar lá, enquanto o caminhão ainda precisará percorrer 63,6 km para chegar em Ribeirão Preto.

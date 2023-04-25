@@ -10,3 +10,7 @@
 // D) 4, 16, 36, 64, 100
 // E) 1, 1, 2, 3, 5, 8, 13
 // F) 2,10, 12, 16, 17, 18, 19, 200
+
+//4) resposta está em 4).txt
+
+// 5) essa questão está no arquivo inverterString.js
